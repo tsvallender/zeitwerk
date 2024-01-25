@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gemspec
 
 gem "rake"
+gem "csv"
+gem "nkf"
 gem "minitest"
 gem "minitest-focus"
 gem "minitest-proveit"
